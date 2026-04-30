@@ -115,7 +115,6 @@ Detailed documentation is available here:
 ## 👨‍💻 Contributors
 
 * Shivam Sharma
-* Bhavajeet
 
 ---
 
